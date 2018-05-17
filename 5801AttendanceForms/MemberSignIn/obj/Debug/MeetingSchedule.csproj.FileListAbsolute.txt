@@ -1,0 +1,9 @@
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\bin\Debug\MemberSignIn.exe.config
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\bin\Debug\MemberSignIn.exe
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\bin\Debug\MemberSignIn.pdb
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MeetingSchedule.csprojResolveAssemblyReference.cache
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MemberSignIn.Form1.resources
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MemberSignIn.Properties.Resources.resources
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MeetingSchedule.csproj.GenerateResource.Cache
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MemberSignIn.exe
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\obj\Debug\MemberSignIn.pdb

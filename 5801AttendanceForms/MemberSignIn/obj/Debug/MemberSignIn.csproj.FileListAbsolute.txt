@@ -1,0 +1,1 @@
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\MemberSignIn\bin\Debug\MemberSignIn.exe.config

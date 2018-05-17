@@ -1,0 +1,9 @@
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\bin\Debug\SignOut.exe.config
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\bin\Debug\SignOut.exe
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\bin\Debug\SignOut.pdb
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.Form1.resources
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.Properties.Resources.resources
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.csproj.GenerateResource.Cache
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.exe
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.pdb
+\\ACENAS\StudentFiles\5801 Attendance\5801AttendanceForms\SignOut\obj\Debug\SignOut.csprojResolveAssemblyReference.cache
